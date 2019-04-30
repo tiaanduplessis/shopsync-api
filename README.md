@@ -1,4 +1,6 @@
-# shopsync-api
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/c1d89790970499a2acea)
+
+# shopsync-api 
 
 > Realtime API for Shopsync
 
